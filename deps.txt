@@ -1,0 +1,10 @@
+{:dependencies,
+	[:algoviews "asyncgen"],
+	[:filesystem_paths "file_streams"],
+	[:memory ["concepts" "file_streams" "misc"]],
+	[:meta "concepts"],
+	[:numerical "from_to"],
+	[:random "concepts"],
+	[:statistics "concepts"],
+	[:syncgen ["file_streams" "asyncgen" "misc" "from_to"]]
+}
